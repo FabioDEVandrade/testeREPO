@@ -4,7 +4,7 @@ Este repositório contém vários projetos em JavaScript. Veja abaixo uma lista 
 
 ## Projetos
 
-- [Project 1: Nome do Projeto](./RandomNum/readme.md)  
+- [Project 1: Nome do Projeto](/RandomNum/readme.md)  
   Descrição rápida do que esse projeto faz.
   
 - [Project 2: Nome do Projeto](./project-2/README.md)  
